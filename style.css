@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'DTM';
+    src: url(font/DTMREGULAR.ttf);
+}
+
+body {
+    font-family: 'DTM';
+    background-color: black;
+    color: white;
+}
+
+header {
+    
+}
